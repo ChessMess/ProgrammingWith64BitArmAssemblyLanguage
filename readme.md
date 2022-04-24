@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ChessMess/ProgrammingWith64BitArmAssemblyLanguage">
-    <img src="images/frontbookcover.jpeg" alt="Logo" width="200" height="303">
+    <img src="https://github.com/ChessMess/ProgrammingWith64BitArmAssemblyLanguage/images/frontbookcover.jpeg" alt="Logo" width="200" height="303">
   </a>
 
 <h3 align="center">Programming with 64-Bit ARM Assembly Language Book</h3>
