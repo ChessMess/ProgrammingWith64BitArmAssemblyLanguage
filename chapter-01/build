@@ -1,0 +1,2 @@
+as -o helloworld.o helloworld.s
+ld -L$(xcode-select -p)/SDKs/MacOSX.sdk/usr/lib -lSystem -o helloworld  helloworld.o 

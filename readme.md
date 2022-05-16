@@ -40,7 +40,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Setting up to run assembly on a Apple Silicon MacBook Pro 16" 2022.
+Setting up to run assembly on a Apple Silicon MacBook Pro 16" 2022. You'll need to install Xcode command line tools. You can do this with the following command: 
 
 ### Prerequisites
 
